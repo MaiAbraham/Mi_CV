@@ -1,0 +1,78 @@
+ *{
+    background-color: antiquewhite;
+ }
+.titulo
+{
+/*border: 2px solid green;*/
+display: flex;
+justify-content: center;
+
+}
+ .azul{
+    color: blue;
+    font-family: cursive
+ }
+
+ .documento 
+ {
+   /* border: 2px solid red ;*/
+    margin: auto;
+    height: 100vh;
+ }
+
+ .img{
+    
+    height: 250px;
+    width: 300px;
+/*border: 2px solid orangered;*/
+
+ }
+
+ .info{
+  /*  border: 2px solid darkblue;*/
+    display: inline-block; 
+ }
+ 
+ .datos{
+    color: darkorchid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+ }
+
+.data{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+.info2{
+    display: inline-block;
+ /*border: solid darkgreen;*/
+}
+
+.h3{
+    color: darkcyan;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.escuelas{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+
+.info3{
+ /*border: solid red;*/
+ display: inline-block;
+}
+
+.hobies{
+    color: deeppink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+
+.pasatiempos{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
